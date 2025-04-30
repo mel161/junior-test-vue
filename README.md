@@ -36,8 +36,7 @@
 
 - `src/components` — переиспользуемые компоненты
 - `src/views` — страницы
-- `src/api` — работа с API
-- `src/types` — типы
+- `src/api` — работа с API и типы
 - `src/styles` — общие стили
 
 ---
